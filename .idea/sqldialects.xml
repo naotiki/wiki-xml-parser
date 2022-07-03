@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/3a212a5e-fe1b-448d-92a5-e0aa69f0d406/console.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/DAO.kt" dialect="GenericSQL" />
+  </component>
+</project>
